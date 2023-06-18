@@ -1,0 +1,24 @@
+.container{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 5px solid #0096FF;
+}
+
+.logo img{
+    height: 175px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -30px;
+}
+
+.links {
+    text-decoration: none;
+    color: #0096FF;
+}
+
+.links:hover {
+    color: rgb(140, 140, 140);
+}
