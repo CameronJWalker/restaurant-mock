@@ -10,7 +10,7 @@ export default function Navbar() {
                     <img src='logo.png'/>
                 </div>
             </Link>
-            <Link href="/menu" className={Nav.links}> Contact Us </Link>
+            <Link href="/contact" className={Nav.links}> Contact Us </Link>
         </div>
     )
 }

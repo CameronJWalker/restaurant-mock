@@ -1,5 +1,12 @@
+import Head from 'next/head'
+
 export default function Menu() {
     return (
-        <div> Menu page </div>
+        <div>
+            <Head>
+                <title> Check out our menu! </title>
+            </Head> 
+            Menu page 
+        </div>
     )
 }

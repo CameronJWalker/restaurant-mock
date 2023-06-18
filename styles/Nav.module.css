@@ -17,6 +17,7 @@
 .links {
     text-decoration: none;
     color: #0096FF;
+    font-family: "Roboto", Arial, sans-serif;
 }
 
 .links:hover {
